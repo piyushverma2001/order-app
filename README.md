@@ -129,11 +129,6 @@ A comprehensive Laravel application demonstrating order creation with database t
 
 #### 3. ProcessOrderJob (`app/Jobs/ProcessOrderJob.php`)
 - **Asynchronous Processing**: Handles order processing in the background
-- **Simulated Operations**: 
-  - Inventory validation (with random failures for testing)
-  - Payment processing (with random failures for testing)
-  - Shipping preparation (with random failures for testing)
-  - Notification sending (with random failures for testing)
 - **Retry Logic**: 3 attempts with 5-minute timeout
 - **Comprehensive Logging**: Detailed logs for monitoring and debugging
 
