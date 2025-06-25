@@ -67,7 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Laravel Order Processing System
 
-A comprehensive Laravel application demonstrating order creation with database transactions and asynchronous job processing for the PHP & Laravel Developer role evaluation at Payninja Technology Limited.
+A comprehensive Laravel application demonstrating order creation with database transactions and asynchronous job processing for the PHP & Laravel Developer.
 
 ## Features
 
